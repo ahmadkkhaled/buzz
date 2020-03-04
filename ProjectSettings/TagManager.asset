@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3197738525
+    locked: 1
+  - name: Mountains
+    uniqueID: 3509542093
+    locked: 1
+  - name: Treeline
+    uniqueID: 3396841397
+    locked: 0
+  - name: Foreground
+    uniqueID: 1083064579
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
