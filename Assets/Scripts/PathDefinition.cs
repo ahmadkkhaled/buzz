@@ -15,7 +15,7 @@ public class PathDefinition : MonoBehaviour
         var index = 0;
         while (true)
         {
-            yield return Points[index]; // yield control back to caller and return Points[index];
+            yield return Points[index]; // yield control back to caller and return iterator to Points[index];
 
             if (Points.Length == 1)
                 continue;
